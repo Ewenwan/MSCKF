@@ -7,7 +7,7 @@ This code is written by someone else, I just add chinese commit in it.
 [多状态约束KF MSCKF & 滑动窗口滤波器SWF](https://leeclem.net/assets/docs/crv2015_battle_paper.pdf)
     
     
-    参考文献2：Visual Inertial Odometry for Mobile Robotics
+[参考文献2：Visual Inertial Odometry for Mobile Robotics](https://upcommons.upc.edu/bitstream/handle/2099.1/26213/103146.pdf?sequence=1&isAllowed=y)
 
 
 # 程序说明
